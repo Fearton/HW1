@@ -72,5 +72,5 @@ void numberDivision(int number) {
 }
 
 System.Console.WriteLine("Enter your number:");
-int number = Convert.ToInt32(Console.ReadLine());
-numberDivision(number);
+int yourNumber = Convert.ToInt32(Console.ReadLine());
+numberDivision(yourNumber);
